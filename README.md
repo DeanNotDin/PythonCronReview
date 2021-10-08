@@ -1,9 +1,9 @@
-#<b>Python Cron Review (PCR)</b>
-###About
+# <b>Python Cron Review (PCR)</b>
+### About
 This is a small python project that parses cron commands given as arguments and extends it to actual runtime information.
 This is very useful for reviewing cron commands prior to using them on a server.
 
-##Requirements
+## Requirements
 This script was written in Python 3.9 but should run without issue on all Python3 versions.
 
 ## Installation
