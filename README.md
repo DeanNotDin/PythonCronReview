@@ -26,7 +26,7 @@ This script was written in Python 3.9 but should run without issue on all Python
 2. Add written text support for verification of months and days. For example, accepting DEC as the 12th month.
 
 ## Remarks:
-4. I did not use PEP8 convention. Instead, I used some of my best practices. I have to problem adapting to any convention.
+4. I did not use PEP8 convention. Instead, I used some of my best practices.
 5. OOP could have been better written given more time.
    1. One example for that would be avoiding calling self.setInvalid() in cronParser.py and change logics to return INVALID even after a positive regex match, but with values that are invalid.
    2. Another example would be 
